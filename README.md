@@ -1,3 +1,5 @@
+# my portfolio website 
+welcome to my portfolio website this project is a simple two-page site that includes homepage and contact page .it was created using html and basic css to provide a clean and straightfprward user experience.
 ## technologies uesd##
 
 This project is a simple two-page personal portfolio website created using HTML and basic CSS. It includes a clean homepage with a short introduction and a contact page with a basic form. The goal of this project is to practice fundamental web development concepts like page structure, linking pages, and applying simple styling.
